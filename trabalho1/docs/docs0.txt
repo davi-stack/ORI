@@ -1,0 +1,1 @@
+Information retrieval systemsMachine learningAccuracyF1-scoreMobile applicationMean reciprocal rankAverage precision
